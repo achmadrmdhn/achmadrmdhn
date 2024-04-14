@@ -49,10 +49,8 @@
 <p>
  ✌️ &emsp; A Video Editor and Graphic Designer who is currently studying Informatics Engineering<br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
-
 </p>
 
-<br/>
 <br/>
 <br/>
 
