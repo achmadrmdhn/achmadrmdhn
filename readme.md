@@ -13,7 +13,7 @@
  -->
 
 <a href="https://komarev.com/ghpvc/?username=achmadrmdhn">
-  <img align="right" src="https://komarev.com/ghpvc/?username=achmadrmdhn&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=achmadrmdhn&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -50,7 +50,7 @@
  ✌️ &emsp; A Video Editor and Graphic Designer who is currently studying Informatics Engineering<br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; For Business and Inquiries: achmadrifai0511@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://instagram.com/rifairmdhnn_)
+ 💬 &emsp; Ask me about anything https://instagram.com/rifairmdhnn_
 
 </p>
 
